@@ -15,4 +15,8 @@ with col2:
     my goal is to become full stack software developer. 
     """
     st.info(content)
-st.info("Below you can find some of the apps I have built. feel free to contact me!")
+
+content2 = """
+Below you can find some of the apps I have built. feel free to contact me!
+"""
+st.write(content2)
